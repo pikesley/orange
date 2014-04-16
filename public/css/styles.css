@@ -1,3 +1,11 @@
 body {
-    background-color: #FA8100;
+  background-color: #FA8100;
+}
+
+h1 {
+  text-align: center;
+  font-size: 8em;
+  opacity: 0.01;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
 }
