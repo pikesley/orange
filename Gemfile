@@ -1,11 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.1.1'
+ruby '2.1.5'
 #ruby-gemset=orange
 
-gem 'travis'
-gem 'rack'
-gem 'thin'
-gem 'rake'
-gem 'badgerbadgerbadger'
-gem 'bundler'
+gem 'github-pages'
